@@ -1,2 +1,2 @@
 # sergeyioffe
-Sergey Ioffe | sergeyioffe logo (web version)
+sergeyioffe logo (web version)
