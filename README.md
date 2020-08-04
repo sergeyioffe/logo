@@ -1,3 +1,7 @@
 # sergeyioffe  
-sergeyioffe logo (web version)  
-https://codepen.io/ioffe/pen/rNBZpGp
+Sergey Ioffe (sergeyioffe) logo (web version)
+
+sergeyioffe web text logotype (html) 
+Ioffe (Sergey Ioffe) web graphic logo (html/css)
+
+Preview: https://codepen.io/ioffe/pen/rNBZpGp
