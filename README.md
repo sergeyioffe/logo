@@ -2,7 +2,7 @@
 Sergey Ioffe (sergeyioffe) logo (web version)
   
 sergeyioffe web text logotype (html/css)   
-![sergeyioffe logo (web version) no-color](https://github.com/sergeyioffe/logo/blob/master/images/sergeyioffe_logo1.jpg =280x280)
+![sergeyioffe logo (web version) no-color](https://github.com/sergeyioffe/logo/blob/master/images/sergeyioffe_logo1.jpg)
 ![sergeyioffe logo (web version) blue-bg](https://github.com/sergeyioffe/logo/blob/master/images/sergeyioffe_logo2.jpg?raw=true | width=280)
 ![sergeyioffe logo (web version) orange](https://github.com/sergeyioffe/logo/blob/master/images/sergeyioffe_logo3.jpg?raw=true | width=280)
   
